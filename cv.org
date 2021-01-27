@@ -1,11 +1,10 @@
-#+TITLE: Curriculum vitae
+#+TITLE: Tim Jäger
+#+SUBTITLE: Software engineer
 #+AUTHOR: Tim Jäger
 
 :PROPERTIES:
 :CUSTOM_ID: curriculum-vitae
 :END:
-
-*Tim Jäger*, software engineer
 
 * Experience
 :PROPERTIES:

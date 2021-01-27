@@ -24,8 +24,8 @@
     colorlinks=true,       % false: boxed links; true: colored links
 }
 
-\title{$title$}
-\date{$date$}
+\title{\scshape $title$ \normalfont\Large \\ $subtitle$}
+\date{}
 
 \def\tightlist{}
 
@@ -41,6 +41,7 @@
 \begin{document}
 
 \maketitle
+\marginnote{\raggedleft{\today}}
 
 \begin{figure*}[h]
   \includegraphics[width=\linewidth]{hilbert.pdf}
