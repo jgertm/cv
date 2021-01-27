@@ -148,7 +148,7 @@ AWS, GCP, Datadog, Stripe, BuildKite, Heroku
 :CUSTOM_ID: interests
 :END:
 
-Compilers, type theory, functional programming, databases
+Compilers, type theory, functional programming, databases, algebra, category theory
 
 ** Spoken languages
 :PROPERTIES:
