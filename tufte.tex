@@ -1,0 +1,51 @@
+\documentclass{tufte-handout}
+
+
+\usepackage[english]{babel}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{longtable}
+\usepackage{booktabs}
+
+\hypersetup
+{
+    bookmarks=true,         % show bookmarks bar?
+    pdftitle={Curriculum vitae - Tim Jäger},    % title
+    pdfauthor={Tim Jäger},     % author
+    pdfsubject={Curriculum vitae},   % subject of the document
+    pdfcreator={Tim Jäger},   % creator of the document
+    pdfkeywords={cv} {resume}, % list of keywords
+    pdfnewwindow=true,      % links in new window
+    colorlinks=true,       % false: boxed links; true: colored links
+}
+
+\title{$title$}
+\date{$date$}
+
+\def\tightlist{}
+
+\makeatletter
+\newlength{\fullpagewidth}
+\AtBeginDocument{\setlength{\fullpagewidth}{\@tufte@fullwidth}}
+\makeatother
+\newcommand{\fullwidthmode}[1]{\noindent\begin{minipage}{\fullpagewidth}#1\end{minipage}}
+
+\newcommand{\link}[2]{{\texttt{\href{#1}{#2}}}}
+
+
+\begin{document}
+
+\maketitle
+
+\marginnote[0.9cm]{
+  \raggedleft{
+    \link{mailto:jger.tm@gmail.com}{jger.tm@gmail.com}\\
+    +1 (669) 241-9839\\
+    \link{https://linkedin.com/in/tim-jaeger-cao}{linkedin.com/in/tim-jaeger-cao}\\
+    \link{https://github.com/jgertm}{github.com/jgertm}
+  }
+}
+
+$body$
+
+\end{document}
