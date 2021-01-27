@@ -1,7 +1,7 @@
 
 all: cv.pdf
 
-cv.pdf: cv.org tufte.tex Makefile
+cv.pdf: cv.org tufte.tex Makefile hilbert.pdf
 	pandoc \
 		--katex \
 		--from org \
