@@ -133,7 +133,7 @@ Mobile app centered around fashion.
 :END:
 
 - /Expert/: Git, Linux, Nix
-- /Intermediate/: Docker, Kubernetes, Bazel, Emacs
+- /Intermediate/: Docker, Kubernetes, Bazel, Emacs, LaTeX
 
 ** Services
 :PROPERTIES:
