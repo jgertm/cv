@@ -135,7 +135,7 @@ Infrastructure monitoring software backend development.
 :END:
 
 - /Expert/: Git, Linux, Nix
-- /Intermediate/: Docker, Kubernetes, Bazel, Emacs, LaTeX
+- /Intermediate/: Docker, Kubernetes, Bazel, Emacs, LaTeX, Mercurial
 
 ** Services
 :PROPERTIES:
