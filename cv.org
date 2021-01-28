@@ -100,6 +100,8 @@ Mobile app centered around fashion.
 
 /Munich, Germany/
 
+Infrastructure monitoring software backend development.
+
 - developed cloud resource metrics exporter for infrastructure
   monitoring startup
 - used Haskell, AWS CloudWatch, Git
