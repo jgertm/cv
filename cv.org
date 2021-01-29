@@ -19,7 +19,8 @@ Datacenter layout optimization software.
 
 - designed & implemented scoring mechanism for datacenter layouts
 - TL for team's central data fetching service 
-- used Python, Java, MySQL, Google Spanner, Bazel, internal Google tooling
+- used Python, Java, MySQL, Google Spanner, Bazel/Blaze, Mercurial,
+  internal Google tooling
 
 ** *Scontrino*, /2019-08 to 2020-01/
 :PROPERTIES:
@@ -135,7 +136,7 @@ Infrastructure monitoring software backend development.
 :END:
 
 - /Expert/: Git, Linux, Nix
-- /Intermediate/: Docker, Kubernetes, Bazel, Emacs, LaTeX, Mercurial
+- /Intermediate/: Docker, Kubernetes, Bazel/Blaze, Emacs, LaTeX, Mercurial
 
 ** Services
 :PROPERTIES:
