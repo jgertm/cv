@@ -11,7 +11,7 @@
 :CUSTOM_ID: experience
 :END:
 
-** *Google* /2020-01 to now/
+** *Google*, Cluster Planning Team, /2020-01 to now/
 
 /Sunnyvale, CA/
 
@@ -21,7 +21,7 @@ Datacenter layout optimization software.
 - TL for team's central data fetching service 
 - used Python, Java, MySQL, Google Spanner, Bazel, internal Google tooling
 
-** *Scontrino* /2019-08 to 2020-01/
+** *Scontrino*, /2019-08 to 2020-01/
 :PROPERTIES:
 :CUSTOM_ID: scontrino-2019-08-to-2020-01
 :END:
@@ -37,7 +37,7 @@ Stealth-mode startup building dining payment technology.
 - used Clojure, Datomic, PostgreSQL, ClojureScript,
   Re-frame, React Native, NFC, RFID, Google Cloud
 
-** *Brex* /2018-06 to 2019-08/
+** *Brex*, /2018-06 to 2019-08/
 :PROPERTIES:
 :CUSTOM_ID: brex-2018-06-to-2019-08
 :END:
@@ -55,7 +55,7 @@ Credit card transaction processing software.
 - used Elixir, PostgreSQL, Kubernetes, Docker, Stripe,
   Git, BuildKite
 
-** *Ladder Life* /2017-05 to 2018-06/
+** *Ladder Life*, /2017-05 to 2018-06/
 :PROPERTIES:
 :CUSTOM_ID: ladder-life-2017-05-to-2018-06
 :END:
@@ -77,7 +77,7 @@ Life insurance broker full-stack software development.
   BigQuery, Dialogflow, Datadog, AWS, Kubernetes, Docker, Stripe, Buck,
   Git, BuildKite
 
-** *Stylefruits* /2016-07 - 2017-04/
+** *Stylefruits*, /2016-07 - 2017-04/
 :PROPERTIES:
 :CUSTOM_ID: stylefruits-2016-07---2017-04
 :END:
@@ -93,7 +93,7 @@ Mobile app centered around fashion.
 - used Clojure, PostgresSQL, Apache Mesos, ElasticSearch,
   Word2Vec, Git, Docker
 
-** *Instana* /2015-05 to 2016-04/
+** *Instana*, /2015-05 to 2016-04/
 :PROPERTIES:
 :CUSTOM_ID: instana-2015-05-to-2016-04
 :END:
@@ -165,12 +165,12 @@ Compilers, type theory, functional programming, databases, algebra, category the
 :CUSTOM_ID: education
 :END:
 
-** *B.Sc. in Mechanical Engineering* (incomplete) /2013-03 to 2016-06/
+** *B.Sc. in Mechanical Engineering*, incomplete, /2013-03 to 2016-06/
 :PROPERTIES:
 :CUSTOM_ID: b.sc.-in-mechanical-engineering-2013-03-to-2016-06
 :END:
 
-/Munich University of Applied Sciences/
+/Munich University of Applied Sciences, Germany/
 
 Specialized in Automatic Control Systems
 
