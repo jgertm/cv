@@ -54,7 +54,7 @@ Credit card transaction processing software.
 - recruiting outreach, interviewed candidates & mentored new hires
 - infrastructure monitoring & on-call rotation
 - used Elixir, PostgreSQL, Kubernetes, Docker, Stripe,
-  Git, BuildKite
+  Git, Datadog, BuildKite
 
 ** *Ladder Life*, /2017-05 to 2018-06/
 :PROPERTIES:
